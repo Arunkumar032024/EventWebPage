@@ -1,0 +1,3 @@
+# The Event or Conference Web Page
+<br>
+An Event web page is a dedicated online platform or webpage created to provide information about a specific event. It typically includes details such as date, time, venue, agenda, speakers, and registration information. Event web pages are commonly used for conferences, seminars, workshops, and other gatherings to help attendees and interested parties access relevant details easily.
